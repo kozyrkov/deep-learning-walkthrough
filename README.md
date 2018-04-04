@@ -27,7 +27,7 @@ Open Demo00.pdf from this repo in one browser tab and the README.md from the [St
 
 Open Demo00.pdf from this repo.  Think of it as watching over my shoulder while I open my console, click around, and write code.  When you're done with Demo00.pdf, move to Demo01.pdf, and so on... Enjoy!
 
-## This was useful, give me more!
+## If this was useful, where can you find more?
 
 I post info about talks and fun things I make for you on Twitter: [twitter.com/quaesita](http://twitter.com/quaesita)
 
