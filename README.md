@@ -34,13 +34,13 @@ I post info about talks and fun things I make for you on Twitter: [twitter.com/q
 ## Classic learning resources for beginners
 
 * [ML course on YouTube](work.caltech.edu/lectures.html#lectures)
-* [ML course on Coursera](coursera.org/learn/machine-learning)
-* Intro ML textbook (clear math, R code): [ISL](bcf.usc.edu/~gareth/ISL/)
-* Intro ML guide (sense of humor, Python code): [guidetodatamining.com/](guidetodatamining.com/)
+* [ML course on Coursera](https://www.coursera.org/learn/machine-learning)
+* Intro ML textbook (clear math, R code): [ISL](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+* Intro ML guide (sense of humor, Python code): http://guidetodatamining.com
 * Intro ML book (older classic with lots of wisdom, uses WEKA examples): [Data Mining by Ian Witten](ftp://ftp.ingv.it/pub/manuela.sbarra/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20-%20WEKA.pdf)
-* Online intro to neural networks: neuralnetworksanddeeplearning.com/
-* Read more about neural networks [here](colah.github.io)
-* Interactive tinkering with neural networks at [playground.tensorflow.org/](playground.tensorflow.org/)
+* Online intro to neural networks: http://neuralnetworksanddeeplearning.com
+* Read more about neural networks [here](http://colah.github.io/)
+* Interactive tinkering with neural networks at https://playground.tensorflow.org
 * Bayesian ML intro with Python code: [Bayesian Methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
 * Reference book PDFs (can give beginners indigestion): [Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [Elements of SL](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 
